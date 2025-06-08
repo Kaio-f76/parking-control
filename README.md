@@ -1,7 +1,7 @@
 # parking-control
 Parking Control API
 
-## O que será utilizado so Spring Framework:
+## O que será utilizado do Spring Framework:
 * Spring boot
 * Spring MVC
 * Spring Data JPA
