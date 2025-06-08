@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.api.parking_control.ParkingControlApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.703 s -- in com.api.parking_control.ParkingControlApplicationTests
