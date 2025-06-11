@@ -1,1 +1,6 @@
+com/api/parking_control/models/ParkingSpotModel.class
+com/api/parking_control/controllers/ParkingSpotController.class
 com/api/parking_control/ParkingControlApplication.class
+com/api/parking_control/dtos/ParkingSpotDto.class
+com/api/parking_control/services/ParkingSpotService.class
+com/api/parking_control/repositories/ParkingSpotRepository.class

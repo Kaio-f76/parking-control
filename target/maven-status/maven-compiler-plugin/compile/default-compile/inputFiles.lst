@@ -1,1 +1,6 @@
 /home/kaio/NetBeansProjects/parking-control/src/main/java/com/api/parking_control/ParkingControlApplication.java
+/home/kaio/NetBeansProjects/parking-control/src/main/java/com/api/parking_control/controllers/ParkingSpotController.java
+/home/kaio/NetBeansProjects/parking-control/src/main/java/com/api/parking_control/dtos/ParkingSpotDto.java
+/home/kaio/NetBeansProjects/parking-control/src/main/java/com/api/parking_control/models/ParkingSpotModel.java
+/home/kaio/NetBeansProjects/parking-control/src/main/java/com/api/parking_control/repositories/ParkingSpotRepository.java
+/home/kaio/NetBeansProjects/parking-control/src/main/java/com/api/parking_control/services/ParkingSpotService.java
