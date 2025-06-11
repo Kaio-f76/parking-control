@@ -1,4 +1,4 @@
-Parking Control API
+# Parking Control API
 
 API RESTful para gerenciamento de vagas de estacionamento, desenvolvida com Spring Boot e seguindo a arquitetura MVC. Este projeto permite o controle de vagas ocupadas, registros de veículos e gerenciamento de dados via endpoints HTTP.
 
